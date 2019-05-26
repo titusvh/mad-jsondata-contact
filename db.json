@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
+  "contacts": [
+    { "id": 1, "firstname": "Cor", "inbetweenname": "", "lastname": "Switzer", "postalcode": "1111SS", "penissize: "XXXS" },
+    { "id": 2, "firstname": "Titus", "van": "", "lastname": "Houwelingen", "postalcode": "6825HB", , "penissize: "GodzillaSize" },
     { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
