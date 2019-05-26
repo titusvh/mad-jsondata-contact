@@ -1,6 +1,6 @@
 {
   "contacts": [
     { "id": 1, "firstname": "Cor", "inbetweenname": "", "lastname": "Switzer", "postalcode": "1111SS", "penissize: "XXXS" },
-    { "id": 2, "firstname": "Titus", "van": "", "lastname": "Houwelingen", "postalcode": "6825HB", "penissize: "GodzillaSize" }
+    { "id": 2, "firstname": "Titus", "inbetweenname": "van", "lastname": "Houwelingen", "postalcode": "6825HB", "penissize: "GodzillaSize" }
   ]
 }
